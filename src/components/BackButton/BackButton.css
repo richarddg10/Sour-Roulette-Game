@@ -1,0 +1,13 @@
+.back-button {
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    width: 65px;
+    height: 60px;
+}
+
+.back-button img {
+    width: 65px;
+    height: 60px;
+}

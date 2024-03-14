@@ -1,0 +1,31 @@
+.instructions-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1100px;
+    height: 100%;
+    background-color: #161515;
+    padding: 70px 0 70px 0;
+}
+
+.instructions-title {
+    font-family: 'poppins';
+    font-size: 35px;
+    font-weight: bold;
+    margin: 82px 0 70px 0;
+    color: #FDFDF1;
+    margin: 0;
+    text-align: center;
+}
+
+.instructions-list {
+    font-family: 'poppins';
+    font-size: 18px;
+    font-weight: 400;
+    width: 800px;
+    margin: 60px 0 60px 0;
+    gap: 5px;
+    color: #FDFDF1;
+    display: flex;
+    flex-direction: column;
+}

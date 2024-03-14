@@ -1,0 +1,33 @@
+.q-cards-container{
+    display: flex;
+    max-width: 100vw;
+    max-height: 100vh;
+    box-sizing: border-box;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 133.04px;
+    height: 137.99px;
+    border-radius: 15px;
+    border: 2px solid black;
+    background-color: #FC7DA8;
+    box-shadow: -10px -10px 0 0 #009A5E;
+    cursor: pointer;
+}
+
+.card-number {
+    font-size: 65px;
+    text-align: center;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    margin: 0;
+}
+
+.card-img {
+    width: 65px;
+}

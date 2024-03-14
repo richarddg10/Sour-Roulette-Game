@@ -1,0 +1,47 @@
+.next-team-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1100px;
+    height: 100%;
+    background-color: #161515;
+    padding: 70px 0 70px 0;
+    justify-content: space-evenly;
+}
+
+.next-team-title {
+    font-family: 'poppins';
+    font-size: 35px;
+    font-weight: bold;
+    margin: 82px 0 70px 0;
+    color: #FDFDF1;
+    margin: 0;
+    text-align: center;
+}
+
+.next-team-number {
+    margin: 0;
+    width: fit-content;
+    -webkit-text-stroke-width: var(--text-stroke);
+    -webkit-text-stroke-color: #FDFDF1;
+    font-size: 110px;
+    color:#048CD6;
+    /* line-height: 1; */
+}
+
+.name-container {
+    padding: 15px 40px 15px 40px;
+    border-radius: 14px;
+    border: 3px solid #FDFDF1;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.player-name {
+    text-align: center;
+    font-size: 20px;
+    color: #FDFDF1;
+    margin: 0;
+}

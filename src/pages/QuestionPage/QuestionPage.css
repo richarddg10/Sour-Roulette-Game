@@ -1,0 +1,46 @@
+.question-page-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1100px;
+    height: 100%;
+    background-color: #161515;
+    padding: 70px 0 70px 0;
+    justify-content: space-evenly;
+}
+
+.question-header{
+    display: flex;
+    align-items: center;
+    gap: 230px
+}
+
+.question-page-title {
+    font-family: 'poppins';
+    font-size: 35px;
+    font-weight: bold;
+    margin: 82px 0 70px 0;
+    color: #FDFDF1;
+    margin: 0;
+    text-align: center;
+}
+
+.question-img {
+    width: 190px;
+    height: 110.19px;
+    margin: 5px 0 15px 0;
+}
+
+.question-text {
+    font-size: 21px;
+    text-align: justify;
+    color: #FDFDF1;
+    width: 530px;
+    margin: 0;
+}
+
+.win-lose-buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+}
